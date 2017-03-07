@@ -1,2 +1,3 @@
 # hello-world
-Introductory code
+
+Hello, WarJack here. Coding will be my new favorite past-time. 
